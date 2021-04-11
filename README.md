@@ -13,6 +13,30 @@ https://docs.cloudera.com/documentation/enterprise/6/6.3/topics/kafka_faq.html
 https://github.com/cloudera/kafka-examples
 https://github.com/asdaraujo/cdp-examples
 https://blog.cloudera.com/reading-data-securely-from-apache-kafka-to-apache-spark/
+https://docs.cloudera.com/runtime/7.2.8/kafka-overview/topics/kafka-overview-brokers.html
+
+https://kafka.apache.org/documentation/#record
+
+https://docs.cloudera.com/runtime/7.2.8/kafka-overview/topics/kafka-overview-faq-basics.html
+
+https://docs.cloudera.com/runtime/7.2.8/kafka-overview/topics/kafka-overview-faq-use-cases.html
+
+https://engineering.linkedin.com/kafka/kafka-linkedin-current-and-future
+
+https://docs.cloudera.com/runtime/7.2.8/kafka-overview/topics/kafka-overview-intro.html
+
+https://docs.cloudera.com/runtime/7.2.8/kafka-overview/topics/kafka-overview-architecture.html
+
+https://blog.cloudera.com/deploying-apache-kafka-a-practical-faq/
+
+https://docs.cloudera.com/cdp-private-cloud-base/7.1.6/metrics/topics/cm_metrics_kafka_replica.html
+
+https://docs.cloudera.com/runtime/7.2.8/kafka-developing-applications/topics/kafka-develop-api.html
+
+https://kafka.apache.org/20/documentation/streams/quickstart
+
+https://docs.cloudera.com/cdp-private-cloud-base/7.1.6/kafka-developing-applications/topics/kafka-develop-recommendations.html
+
 
 
 # Updates
