@@ -5,6 +5,16 @@
 * https://datainmotion.dev/
 * http://dev.to/tspannhw
 
+# Unsorted
+
+https://www.cloudera.com/tutorials/cdp-cod-phoenix-sql-using-hbase-nifi-kafka.html
+https://www.cloudera.com/content/dam/www/marketing/resources/demos/demo-real-time-data-streaming-using-apache-kafka.landing.html
+https://docs.cloudera.com/documentation/enterprise/6/6.3/topics/kafka_faq.html
+https://github.com/cloudera/kafka-examples
+https://github.com/asdaraujo/cdp-examples
+https://blog.cloudera.com/reading-data-securely-from-apache-kafka-to-apache-spark/
+
+
 # Updates
 
 * 
