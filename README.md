@@ -29,6 +29,14 @@ https://docs.cloudera.com/runtime/7.2.8/kafka-overview/topics/kafka-overview-arc
 
 https://blog.cloudera.com/deploying-apache-kafka-a-practical-faq/
 
+https://docs.cloudera.com/cdp-private-cloud-base/7.1.6/kafka-connect/topics/kafka-connect-using-ozone-integration.html
+https://www.cloudera.com/tutorials/collecting-data-with-cdp-public-cloud.html
+https://www.cloudera.com/tutorials/cdp-cod-phoenix-sql-using-hbase-nifi-kafka.html
+https://www.cloudera.com/tutorials/cdp-importing-rdbms-data-into-hive.html
+https://www.cloudera.com/tutorials/analyze-transit-patterns-with-apache-nifi.html
+https://www.cloudera.com/tutorials/edge2ai-autonomous-car.html
+https://community.cloudera.com/t5/Community-Articles/Kafka-Best-Practices/ta-p/249371
+
 https://docs.cloudera.com/cdp-private-cloud-base/7.1.6/metrics/topics/cm_metrics_kafka_replica.html
 
 https://docs.cloudera.com/runtime/7.2.8/kafka-developing-applications/topics/kafka-develop-api.html
