@@ -45,7 +45,7 @@ https://kafka.apache.org/20/documentation/streams/quickstart
 
 https://docs.cloudera.com/cdp-private-cloud-base/7.1.6/kafka-developing-applications/topics/kafka-develop-recommendations.html
 
-
+https://tech.ebayinc.com/engineering/resiliency-and-disaster-recovery-with-kafka/
 
 # Updates
 
